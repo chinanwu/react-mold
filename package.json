@@ -16,6 +16,9 @@
   "author": "Chin-An Wu",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
     "react": "^16.12.0",
     "react-dom": "^16.9.0",
     "react-redux": "^7.1.1",
