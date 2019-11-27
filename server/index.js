@@ -20,6 +20,6 @@ app.use(bodyParser.urlencoded({extended: true})); // to support URL-encoded bodi
 app.use('/v1/api/sample-api', require('./api/sample-api'));
 
 module.exports = () => {
-  console.log('Staring mock customer-api at port: 8004');
-  createServer(app).listen(8004);
+  console.log('Staring server at port: 5000');
+  createServer(app).listen(5000);
 };
