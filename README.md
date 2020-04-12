@@ -1,4 +1,4 @@
 # react-mold
 
-## Things to add:
-- Eslint 
+## How to use
+
